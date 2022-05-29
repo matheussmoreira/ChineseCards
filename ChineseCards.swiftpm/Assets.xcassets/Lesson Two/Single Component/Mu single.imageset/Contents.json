@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mu single.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

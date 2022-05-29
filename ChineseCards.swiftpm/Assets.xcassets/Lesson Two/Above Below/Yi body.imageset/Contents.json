@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Yi body.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
